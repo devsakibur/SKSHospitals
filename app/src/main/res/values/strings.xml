@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SKS Hospital</string>
+
+    <!--    menu names-->
+    <string name="ambulaceservices">এম্বুল্যান্স সার্ভিস</string>
+    <string name="eyehospital"> চক্ষু হাসপাতাল \n</string>
+    <string name="farmesy"> ফার্মেসী \n </string>
+    <string name="finddoctor"> ডাক্তার খুজুন \n</string>
+    <string name="healthpackage"> হেলথ প্যাকেজ \n</string>
+    <string name="homesamplecollection"> হোম স্যাম্পল কালেকশন </string>
+    <string name="infoservice"> তথ্য,সেবা পরামর্শ </string>
+    <string name="locationonmaps"> লোকেশন \n</string>
+    <string name="physiotherapy"> ফিজিওথেরাপী \n</string>
+    <string name="serialdin">সিরিয়াল দিন\n</string>
+    <string name="services"> সেবা সমুহ \n</string>
+    <string name="pricelist"> মুল্য তালিকা \n</string>
+    <string name="title_activity_doctors_details">DoctorsDetails</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
